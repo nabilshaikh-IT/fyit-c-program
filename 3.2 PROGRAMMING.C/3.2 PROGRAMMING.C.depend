@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1755765632 source:d:\nabil.c\3.2 programming.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
